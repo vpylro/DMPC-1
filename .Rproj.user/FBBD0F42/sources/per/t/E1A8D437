@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540234756605.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "4127260909",
+    "id" : "E1A8D437",
+    "lastKnownWriteTime" : 1540230837,
+    "last_content_update" : 1540230837,
+    "path" : "C:/Users/Priscila Dobbler/Downloads/DMPC-master/R/DMPC.FDR.R",
+    "project_path" : "R/DMPC.FDR.R",
+    "properties" : {
+        "cursorPosition" : "59,23",
+        "scrollLine" : "35",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
