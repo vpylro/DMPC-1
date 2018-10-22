@@ -1,10 +1,10 @@
 ## How to install and use DMPC package
 
   To install DMPC Package first install the devtools package. Then run
-install_github("vpylro/DMPC").
+install_github("microEcology/DMPC").
 DMPC uses a Phyloseq object as input.
 
-##This function will be used to predict the likelihood of KIDMED index diet categories to influence the saliva's microbiome.
+##This function predicts the likelihood of correct classificatio of samples, based on the microbiota of dust particles from men's and women's restrooms.
 The prediction is performed by randonForests on full dataset.
 ```{r}
 library(DMPC)
